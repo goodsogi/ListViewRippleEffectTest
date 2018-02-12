@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Theme을 Theme.AppCompat.Light.DarkActionBard으로 선택해야 selectableItemBackground가 작동함-->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlHighlight">@color/ripple</item>
+    </style>
+
+</resources>
